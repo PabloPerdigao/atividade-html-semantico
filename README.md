@@ -1,4 +1,4 @@
-# Aividade — HTML Semântico
+# Atividade — HTML Semântico
 
 ## 1. Proposta
 
